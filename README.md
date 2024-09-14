@@ -9,6 +9,8 @@ FasalVeer is a Flutter-based application aimed at providing essential agricultur
 - **Market Prices:** Displays real-time market prices of crops to assist farmers in selling at competitive rates.
 - **Farming Tips:** Offers helpful tips and guidelines for farming, including pest control, irrigation methods, and soil health.
 - **Language Support:** Multi-language support to cater to a diverse range of users.
+- **Resource Managment:** Providing tools for managing labor and equipment rentals, allowing farmers to efficiently allocate resources on a daily or hourly basis, improving overall farm productivity.
+- **Detect Diseases:** Implementing AI to analyze crop leaves images, instantly identifying diseases and providing actionable treatment -recommendations, including pesticide options.
 
 ## Technologies Used
 
