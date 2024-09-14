@@ -81,7 +81,7 @@ This project is licensed under the MIT License - see the [LICENSE](../LICENSE) f
 For any inquiries or feedback, you can reach out via:
 
 - GitHub: [Partha02Bh](https://github.com/Partha02Bh)
-- Email: [your-email@example.com]
+- Email: [gkp5625@gmail.com]
 
 ---
 
