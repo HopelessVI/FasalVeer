@@ -15,9 +15,11 @@ FasalVeer is a Flutter-based application aimed at providing essential agricultur
 ## Technologies Used
 
 - **Flutter**: For building the cross-platform mobile application.
+- **Figma**: Primary design tool for user Interface.
 - **Dart**: Primary programming language for the application logic.
-- **Firebase**: Backend services for authentication, real-time database, and cloud storage.
+- **Node.Js & Firebase**:Backend services used for authentication, real-time database, and cloud storage.
 - **REST APIs**: Used for fetching real-time market prices and weather updates.
+- **TensorFlow & Keras**: Used for training an AI model
 
 ## Installation
 
