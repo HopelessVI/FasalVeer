@@ -74,14 +74,14 @@ If you encounter any bugs or have suggestions for improvements, feel free to [op
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ## Contact
 
 For any inquiries or feedback, you can reach out via:
 
 - GitHub: [Partha02Bh](https://github.com/Partha02Bh)
-- Email: [gkp5625@gmail.com]
+- Email: gkp5625@gmail.com
 
 ---
 
