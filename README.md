@@ -24,8 +24,8 @@ Follow these steps to install and run the project:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Partha02Bh/fasal.git
-    cd fasal/code
+    git clone https://github.com/HopelessVI/FasalVeer.git
+    cd FasalVeer
     ```
 
 2. **Install dependencies:**
@@ -66,7 +66,7 @@ Contributions are welcome! Here's how you can get started:
 
 ## Issues
 
-If you encounter any bugs or have suggestions for improvements, feel free to [open an issue](https://github.com/Partha02Bh/fasal/issues).
+If you encounter any bugs or have suggestions for improvements, feel free to [open an issue](https://github.com/HopelessVI/FasalVeer/issues).
 
 ## License
 
