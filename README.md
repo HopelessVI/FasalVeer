@@ -19,7 +19,7 @@ FasalVeer is a Flutter-based application aimed at providing essential agricultur
 - **Dart**: Primary programming language for the application logic.
 - **Node.Js & Firebase**:Backend services used for authentication, real-time database, and cloud storage.
 - **REST APIs**: Used for fetching real-time market prices and weather updates.
-- **TensorFlow & Keras**: Used for training an AI model
+- **TensorFlow & Keras**: Used for training an AI model.
 
 ## Installation
 
@@ -85,4 +85,4 @@ For any inquiries or feedback, you can reach out via:
 
 ---
 
-Thanks for contributing to **Fasal**!
+Thanks for contributing to **FasalVeer**!
