@@ -1,88 +1,75 @@
-# FasalVeer
+# FasalVeer - Sustainable Fertilizer Usage Optimizer
 
-FasalVeer is a Flutter-based application aimed at providing essential agricultural information and tools to farmers. The app allows farmers to access data about crops, farming techniques, and market trends, enabling them to make informed decisions.
+FasalVeer is a transformative app dedicated to solving the issues of excessive fertilizer use and soil degradation in Indian agriculture. By empowering farmers with actionable insights and sustainable practices, FasalVeer aims to enhance crop yields while preserving soil health.
 
-## Features
+## Problem Statement
 
-- **Crop Information:** Provides detailed information about different crops, including best practices for farming.
-- **Weather Forecast:** Integrated weather data to help farmers plan their farming activities.
-- **Market Prices:** Displays real-time market prices of crops to assist farmers in selling at competitive rates.
-- **Farming Tips:** Offers helpful tips and guidelines for farming, including pest control, irrigation methods, and soil health.
-- **Language Support:** Multi-language support to cater to a diverse range of users.
-- **Resource Managment:** Providing tools for managing labor and equipment rentals, allowing farmers to efficiently allocate resources on a daily or hourly basis, improving overall farm productivity.
-- **Detect Diseases:** Implementing AI to analyze crop leaves images, instantly identifying diseases and providing actionable treatment -recommendations, including pesticide options.
+**Problem Statement ID:** SIH1639  
+**Title:** Sustainable Fertilizer Usage Optimizer for Higher Yield  
+**Theme:** Agriculture, Food Tech & Rural Development  
+**Team Name:** Hopeless VI  
+**Team ID:** 15638
 
-## Technologies Used
+## Project Overview
 
-- **Flutter**: For building the cross-platform mobile application.
-- **Figma**: Primary design tool for user Interface.
-- **Dart**: Primary programming language for the application logic.
-- **Node.Js & Firebase**:Backend services used for authentication, real-time database, and cloud storage.
-- **REST APIs**: Used for fetching real-time market prices and weather updates.
-- **TensorFlow & Keras**: Used for training an AI model.
+FasalVeer focuses on sustainable, data-driven precision farming for small and medium farmers. It provides personalized fertilizer recommendations, promotes the use of organic alternatives, and optimizes resource management. The app integrates AI and real-time data to deliver soil health analysis, cropping guides, and yield tracing, all in an accessible, multilingual format.
 
-## Installation
+### Key Features
 
-Follow these steps to install and run the project:
+- **Alternatives to Chemical Fertilizers:** Recommendations for organic and natural fertilizers.
+- **Yield Tracing:** Monitors crop yields and provides ROI analysis for fertilizer and resource usage.
+- **Soil Testing & Report Analysis:** Connects farmers to soil health test centers and provides actionable insights.
+- **AI-Generated Cropping Guide:** Personalized cropping schedules based on soil and environmental data.
+- **Resource Management:** Allows equipment listing and renting among farmers.
 
-1. **Clone the repository:**
+## Technical Approach
 
-    ```bash
-    git clone https://github.com/HopelessVI/FasalVeer.git
-    cd FasalVeer
-    ```
+- **Frontend:**  
+  - Flutter for mobile app development  
+  - Figma for UI/UX design
+- **Backend & Server-Side:**  
+  - Firebase for authentication and real-time database  
+  - MongoDB for data storage
+- **AI/ML & Data Processing:**  
+  - TensorFlow, Keras, Scikit Learn for model training and predictions  
+  - BeautifulSoup for web scraping
+- **APIs & Data Integration:**  
+  - AccuWeather API for weather data  
+  - Google Maps & OpenStreet Maps for geolocation  
+  - Twilio API for communication
 
-2. **Install dependencies:**
+## Development Workflow
 
-    Ensure you have Flutter installed. Then run:
+1. **Frontend:** Developed using Flutter for a smooth user interface across mobile devices.
+2. **Backend:** Node.js and Firebase are used for server-side logic and database management.
+3. **AI/ML Models:** TensorFlow and Scikit Learn power the AI predictions for yield and fertilizer recommendations.
+4. **APIs:** Integration with external APIs such as AccuWeather and Google Maps enhances the app’s functionality.
 
-    ```bash
-    flutter pub get
-    ```
+## Future Vision
 
-3. **Run the app:**
+- **On-Field Portable Soil Testing:** Affordable, instant soil tests connected to the app.
+- **AI/ML Yield Forecasting:** Predict yields and optimize inputs using AI and historical data.
+- **Blockchain Integration:** Ensure transparency in soil health, fertilization, and farming practices.
 
-    You can run the app on an emulator or a physical device using:
+## Impact and Benefits
 
-    ```bash
-    flutter run
-    ```
+- **Cost Efficiency:** Reduce input costs while boosting yields.
+- **Climate Change Resilience:** Enable farmers to adapt to environmental changes.
+- **Resource Optimization:** Streamlined equipment rentals and efficient resource management.
+- **Sustainability:** Minimizes soil degradation and promotes eco-friendly farming practices.
 
-## Project Structure
+## Project Links
 
-The project is divided into the following main directories:
+- **GitHub Repository:** [FasalVeer](https://github.com/HopelessVI/FasalVeer)
+- **Video Explanation:** [Watch here](https://youtu.be/fdu8pMCGopQ)
 
-- **lib/**: Contains the main Flutter code, including screens, widgets, and services.
-- **assets/**: Stores images and other assets used in the app.
-- **data/**: Contains mock data files and service classes for API integrations.
-- **models/**: Houses the data models used across the application.
-- **services/**: Handles API calls, Firebase integration, and other backend-related tasks.
+## References
 
-## Contributing
-
-Contributions are welcome! Here's how you can get started:
-
-1. Fork the repository.
-2. Create a new branch with a descriptive name.
-3. Make your changes and commit them.
-4. Push your changes to your forked repository.
-5. Submit a pull request.
-
-## Issues
-
-If you encounter any bugs or have suggestions for improvements, feel free to [open an issue](https://github.com/HopelessVI/FasalVeer/issues).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-For any inquiries or feedback, you can reach out via:
-
-- GitHub: [Partha02Bh](https://github.com/Partha02Bh)
-- Email: gkp5625@gmail.com
+- [Soil testing and effects of different things on crops](https://eos.com/)
+- [Soil health portal](https://soilhealth.dac.gov.in/home)
+- [Understanding soil test reports](https://extension.umn.edu/testing-and-analysis/understanding-soil-test-report)
+- [Fertilizer usage by crop](https://www.ifastat.org/consumption/fertilizer-use-by-crop)
 
 ---
 
-Thanks for contributing to **FasalVeer**!
+**Developed by Team Hopeless VI for Smart India Hackathon 2024**
