@@ -153,6 +153,17 @@ FasalVeer brings sustainability-focused, data-driven precision farming solutions
 
 ---
 
+## Team Members 
+
+1. Gaurav         [Linkedin](https://www.linkedin.com/in/gaurav-7528b1257/)
+2. Shreeya        [Linkedin](https://www.linkedin.com/in/shreeya-nayak-108282216/)
+3. Nistha         [Linkedin](https://www.linkedin.com/in/nistha-96597824b/)
+4. Dimple         [Linkedin](https://www.linkedin.com/in/dimple-tanwer-32b058263/)
+5. Rudra          [Linkedin](https://www.linkedin.com/in/patel-rudraj/)
+6. Parthasarathi  [Linkedin](https://www.linkedin.com/in/parthasarathi-bhattacharya-0643b1213/)
+
+---
+
 ## 🔗 Project Links
 
 - **GitHub Repository:** [FasalVeer GitHub](https://github.com/HopelessVI/FasalVeer)
